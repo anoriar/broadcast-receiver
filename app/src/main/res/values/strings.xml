@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">broadcast-receiver</string>
+    <string name="send_message_btn">Отправить сообщение</string>
+    <string name="alarm_message">Срочно пришлите кота!</string>
+    <string name="registration_time_tick">Регистрация</string>
+    <string name="unregister_time_tick">Отмена регистрации</string>
+</resources>
